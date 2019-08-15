@@ -1,0 +1,4 @@
+/etc/dansguardian/dansguardian.conf
+/etc/dansguardian/#dansguardian.conf#
+/etc/squid3/squid.conf
+/etc/squid3/#squid.conf#

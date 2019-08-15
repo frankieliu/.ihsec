@@ -1,0 +1,80 @@
+;lemacs*background:grey
+lemacs*background:	#fffff0
+lemacs*default*attributeForeground:lightgoldenrod
+lemacs*default*attributeBackground:     	midnightblue
+;lemacs*XmScrollBar.Background:#e0e0e0
+;lemacs*XmScrollBar.Foreground:#e0e0e0
+lemacs*pane*scrollBarPlacement:	             bottom_left
+lemacs*motion-bold*attributeForeground:	yellow
+lemacs*primary-selection*attributeForeground:	#ffffee
+lemacs*primary-selection*attributeBackground:	blue4
+lemacs*info-node*attributeForeground:	orange
+lemacs*EmacsScreen*geometry:	90x51+227+119
+lemacs*EmacsScreen*cursorColor:	red
+lemacs*default*attributeFont:	-*-courier-medium-r-*-*-14-*
+;lemacs*default*attributeForeground:	Black
+;lemacs*default*attributeBackground:	White
+lemacs*XlwMenu*background:	#e0e0e0
+lemacs*XlwMenu*foreground:	#800000
+lemacs*XlwMenu*font:	-*-helvetica-bold-r-*-*-12-*-*-*-*-*-*-*
+lemacs*XlwMenu*cursor:	right_ptr
+lemacs*highlight*attributeForeground:	#440000
+lemacs*highlight*attributeBackground:	#ffeedd
+lemacs*motion-inverted*attributeForeground:	#000077
+lemacs*motion-inverted*attributeBackground:	#bbeeff
+lemacs*blink-paren-on*attributeForeground:	#00ffff
+lemacs*blink-paren-on*attributeBackground:	blue4
+lemacs*isearch*attributeForeground:	black
+lemacs*isearch*attributeBackground:	green
+lemacs*modeline*attributeFont:	-*-helvetica-medium-r-*-*-14-*
+lemacs*modeline*attributeForeground:	#800000
+lemacs*modeline*attributeBackground:	#e0e0e0
+lemacs*font-lock-tex-tt-face*attributeFont:	-*-courier-medium-r-*-*-14-*
+lemacs*font-lock-tex-tt-face*attributeForeground:	#aaffaa
+lemacs*font-lock-symbol-face*attributeFont:	-*-times-medium-i-*-*-16-*
+lemacs*font-lock-symbol-face*attributeForeground:	#aadddd
+lemacs*font-lock-paren-face*attributeForeground:	#99aabb
+lemacs*font-lock-function-name-face*attributeFont:	-*-times-medium-i-*-*-16-*
+lemacs*font-lock-function-name-face*attributeForeground:	cadetblue
+lemacs*font-lock-tex-def-face*attributeFont:	-*-times-medium-i-*-*-16-*
+lemacs*font-lock-tex-def-face*attributeForeground:	#aaffff
+lemacs*font-lock-tex-em-face*attributeFont:	-*-courier-medium-o-*-*-14-*
+lemacs*font-lock-string-face*attributeFont:	-*-courier-medium-r-*-*-14-*
+lemacs*font-lock-string-face*attributeForeground:	lightsalmon
+lemacs*font-lock-comment-face*attributeForeground:	peachpuff
+lemacs*font-lock-tex-bf-face*attributeFont:	-*-courier-bold-r-*-*-14-*
+lemacs*font-lock-tex-bf-face*attributeForeground:	red
+lemacs*font-lock-doc-string-face*attributeFont:	-*-times-medium-i-*-*-16-*
+lemacs*font-lock-doc-string-face*attributeForeground:	pink
+lemacs*font-lock-keyword-face*attributeFont:	-*-courier-medium-r-*-*-14-*
+lemacs*font-lock-keyword-face*attributeForeground:	SteelBlue
+lemacs*info-xref*attributeForeground:	salmon
+lemacs*blink-paren-off*attributeForeground:	#0077ff
+lemacs*blink-paren-off*attributeBackground:	blue4
+lemacs*pointerColor:	red
+lemacs*pointerBackground:	white
+
+emacs*font-lock-tex-tt-face*attributeFont:	-*-courier-medium-r-*-*-14-*
+emacs*font-lock-tex-tt-face*attributeForeground:	#aaffaa
+emacs*font-lock-symbol-face*attributeFont:	-*-times-medium-i-*-*-16-*
+emacs*font-lock-symbol-face*attributeForeground:	#aadddd
+emacs*font-lock-paren-face*attributeForeground:	#99aabb
+emacs*font-lock-function-name-face*attributeFont:	-*-times-medium-i-*-*-16-*
+emacs*font-lock-function-name-face*attributeForeground:	cadetblue
+emacs*font-lock-tex-def-face*attributeFont:	-*-times-medium-i-*-*-16-*
+emacs*font-lock-tex-def-face*attributeForeground:	#aaffff
+emacs*font-lock-tex-em-face*attributeFont:	-*-courier-medium-o-*-*-14-*
+emacs*font-lock-string-face*attributeFont:	-*-courier-medium-r-*-*-14-*
+emacs*font-lock-string-face*attributeForeground:	lightsalmon
+emacs*font-lock-comment-face*attributeForeground:	peachpuff
+emacs*font-lock-tex-bf-face*attributeFont:	-*-courier-bold-r-*-*-14-*
+emacs*font-lock-tex-bf-face*attributeForeground:	red
+emacs*font-lock-doc-string-face*attributeFont:	-*-times-medium-i-*-*-16-*
+emacs*font-lock-doc-string-face*attributeForeground:	pink
+emacs*font-lock-keyword-face*attributeFont:	-*-courier-medium-r-*-*-14-*
+emacs*font-lock-keyword-face*attributeForeground:	SteelBlue
+
+Emacs.background:	#fffff0
+emacs.font:8x13
+
+

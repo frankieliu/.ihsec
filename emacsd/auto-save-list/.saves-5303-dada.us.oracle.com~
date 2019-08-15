@@ -1,0 +1,10 @@
+/home/fyliu/Pdv/drc.con
+/home/fyliu/Pdv/#drc.con#
+/import/async/cad/process/tsmc010/drccal10
+/import/async/cad/process/tsmc010/#drccal10#
+/import/mn-sca-cad1/cad/pcell-copy/calibre/DRCCAL/top.drc.con
+/import/mn-sca-cad1/cad/pcell-copy/calibre/DRCCAL/#top.drc.con#
+/import/async/cad/linux/bin/drccal10
+/import/async/cad/linux/bin/#drccal10#
+/import/pdtools/release/pdt/latestBuild/tech/pdv_calibre/pdv_techdir/19.10.0000/mn/rules/sun.drc.define
+/import/pdtools/release/pdt/latestBuild/tech/pdv_calibre/pdv_techdir/19.10.0000/mn/rules/#sun.drc.define#

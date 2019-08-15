@@ -1,0 +1,16 @@
+/home/frankie/JNA/msgop.c
+/home/frankie/JNA/#msgop.c#
+/home/frankie/JNA/msgctl.c
+/home/frankie/JNA/#msgctl.c#
+/usr/include/cygwin/msg.h
+/usr/include/cygwin/#msg.h#
+/usr/include/cygwin/ipc.h
+/usr/include/cygwin/#ipc.h#
+/usr/include/sys/types.h
+/usr/include/sys/#types.h#
+/usr/include/sys/msg.h
+/usr/include/sys/#msg.h#
+/home/frankie/JNA/msgget.c
+/home/frankie/JNA/#msgget.c#
+/home/frankie/JNA/HelloJNAWorld.java
+/home/frankie/JNA/#HelloJNAWorld.java#

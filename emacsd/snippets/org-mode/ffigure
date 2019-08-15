@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: ffigure
+# key: ffig_
+# group: frankie
+# --
+#+NAME: fig:${1:figure_name}
+#+CAPTION: $1
+#+ATTR_ORG: :width ${2:400}
+#+ATTR_HTML: :width $2
+#+ATTR_LaTeX: :width ${2:$(/ (string-to-number yas-text) 100)}
+#+LABEL: fig:$1

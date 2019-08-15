@@ -1,0 +1,6 @@
+;; -*- emacs-lisp -*- <18/09/14 10:55:43 /home/fyliu/.emacs.d/tramp>
+;; Tramp connection history.  Don't change this file.
+;; You can delete it, forcing Tramp to reapply the checks.
+
+((["scp" nil "www-proxy-hqdc.us.oracle.com" nil nil]
+  nil))

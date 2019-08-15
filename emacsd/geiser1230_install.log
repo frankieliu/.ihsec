@@ -1,0 +1,89 @@
+elpa/geiser-20151230.1442
+Leaving directory `/home/frankie/.emacs.d/elpa/geiser-20151230.1442'
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-autodoc.el at Thu Dec 31 07:25:56 2015
+Entering directory `/home/frankie/.emacs.d/elpa/geiser-20151230.1442/'
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-base.el at Thu Dec 31 07:25:56 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-chicken.el at Thu Dec 31 07:25:56 2015
+
+In end of data:
+geiser-chicken.el:343:1:Warning: the function `geiser-syntax--simple-keywords'
+    is not known to be defined.
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-company.el at Thu Dec 31 07:25:57 2015
+geiser-company.el:113:35:Warning: assignment to free variable
+    `company-default-lighter'
+geiser-company.el:114:35:Warning: assignment to free variable
+    `company-echo-delay'
+geiser-company.el:116:18:Warning: assignment to free variable
+    `company-backends'
+geiser-company.el:124:18:Warning: reference to free variable
+    `company-active-map'
+
+In end of data:
+geiser-company.el:133:1:Warning: the following functions are not known to be defined:
+    company-begin-backend, company-cancel
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-compile.el at Thu Dec 31 07:25:57 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-completion.el at Thu Dec 31 07:25:57 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-connection.el at Thu Dec 31 07:25:57 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-custom.el at Thu Dec 31 07:25:57 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-debug.el at Thu Dec 31 07:25:57 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-doc.el at Thu Dec 31 07:25:57 2015
+geiser-doc.el:66:18:Warning: reference to free variable
+    `session-globals-exclude'
+geiser-doc.el:66:18:Warning: assignment to free variable
+    `session-globals-exclude'
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-edit.el at Thu Dec 31 07:25:58 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-eval.el at Thu Dec 31 07:25:58 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-guile.el at Thu Dec 31 07:25:58 2015
+
+In end of data:
+geiser-guile.el:440:1:Warning: the function `geiser-syntax--simple-keywords'
+    is not known to be defined.
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-image.el at Thu Dec 31 07:25:58 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-impl.el at Thu Dec 31 07:25:58 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-log.el at Thu Dec 31 07:25:59 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-menu.el at Thu Dec 31 07:25:59 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-mode.el at Thu Dec 31 07:25:59 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-popup.el at Thu Dec 31 07:25:59 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-racket.el at Thu Dec 31 07:25:59 2015
+
+In end of data:
+geiser-racket.el:460:1:Warning: the function `geiser-syntax--simple-keywords'
+    is not known to be defined.
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-reload.el at Thu Dec 31 07:25:59 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-repl.el at Thu Dec 31 07:26:00 2015
+
+In geiser-connect-local:
+geiser-repl.el:763:8:Warning: function geiser-connect-local used to take 1-2
+    arguments, now takes 2
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-syntax.el at Thu Dec 31 07:26:00 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-table.el at Thu Dec 31 07:26:00 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-version.el at Thu Dec 31 07:26:00 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser-xref.el at Thu Dec 31 07:26:00 2015
+
+Compiling file /home/frankie/.emacs.d/elpa/geiser-20151230.1442/geiser.el at Thu Dec 31 07:26:00 2015

@@ -1,0 +1,4 @@
+/etc/dansguardian/lists/exceptionsitelist
+/etc/dansguardian/lists/#exceptionsitelist#
+/etc/dansguardian/dansguardian.conf
+/etc/dansguardian/#dansguardian.conf#

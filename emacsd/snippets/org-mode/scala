@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: scala
+# key: scala_
+# group: frankie
+# --
+#+BEGIN_SRC scala
+$0
+#+END_SRC

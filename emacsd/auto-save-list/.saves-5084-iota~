@@ -1,0 +1,6 @@
+/etc/dansguardian/lists/exceptionsitelist
+/etc/dansguardian/lists/#exceptionsitelist#
+/etc/dansguardian/iptables.save
+/etc/dansguardian/#iptables.save#
+/home/adam/Dropbox/Admin/notes.org
+/home/adam/Dropbox/Admin/#notes.org#

@@ -1,0 +1,24 @@
+This is an updated version of the Emacs/Xemacs SKILL mode.  The changes are
+to make the tools work with release 21 of those editors.  Also a database
+of symbols generated from the cdsFinder database for release 4.4 has been
+added.  If you are still using 4.3, you will need to edit the skill-defaults.el
+file and modify the il-symbol-lib-version and then recompile it.
+
+The major changes have been in the skill-mode.elc files in the respective
+xemacs and gnuemacs directory.  There was a problem where the test was
+being made for the release number being equal to 19.  I changed the test
+and we now have a skill-mode19.elc and a skill-mode21.elc for the
+respective versions of the editors.  Copy the one which cooresponds to your
+version of the editor to skill-mode.elc and then follow the INSTALL
+instructions.
+
+Cadence does not supply support for this project, I did these things for
+myself since the original developer has not updated the code.  If you have
+any comments, you may send them to me.  However, I do not have source code
+so I cannot fix any problems.
+
+Ted Paone
+Staff Applications Engineer
+ACPD Core Competency
+Cadence Design Systems
+tedp@cadence.com
